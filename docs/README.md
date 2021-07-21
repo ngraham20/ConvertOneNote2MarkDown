@@ -83,6 +83,7 @@ Clone this repository to acquire the powershell script.
     ```.\ConvertOneNote2MarkDown-v2.ps1```
     
     * if you have trouble, try running both Onenote and Powershell as an administrator.
+    * it may also help to have Microsoft Word open along with Onenote.
     * if you receive an error, try running this line to bypass security:
      ``Set-ExecutionPolicy Bypass -Scope Process``
     
